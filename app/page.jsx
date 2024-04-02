@@ -19,7 +19,7 @@ export default function Home() {
           />
         </section>
         <section className="mx-[46px] md:mx-0">
-          <h1 className='mt-8 text-4xl font-young font-[400]'>
+          <h1 className='mt-8 text-4xl font-young font-bold'>
             Simple Omelette Recipe
           </h1>
           <p className='mt-6 text-brown '>
